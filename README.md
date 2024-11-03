@@ -2,6 +2,8 @@
 
 This project is a simple web-based RGB and Hex color generator built using raw JavaScript, HTML, and CSS. The tool allows users to generate random colors and see their corresponding RGB and Hex codes.
 
+[DEMO](https://anik0200.github.io/JAVASCRIPT-RGB-HEX-COLOR-GENERATOR/)
+
 ## Features
 - Generates random colors on button click
 - Generates Color With Hex Code And Convert To Rgb Code
